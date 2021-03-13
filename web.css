@@ -1,0 +1,28 @@
+@charset "UTF-8";
+#photo {
+    height:330px;
+    width: 220px;
+    float: left;
+}
+
+#lanlu {
+    text-align: left;
+    line-height: 30px;
+    height: 330px;
+    width: 410px;
+    float:left;
+}
+
+#research {
+    text-align: left;
+    line-height: 30px;
+    height: 330px;
+    width: 250px;
+    float:left;
+}
+
+#intro {
+    text-align: left;
+    line-height: 30px;
+    clear: left;
+}
